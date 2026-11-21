@@ -1,12 +1,18 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "date": "2026-11-21",
-  "notes": "增加检测版本更新功能",
+  "notes": "增加自动检测版本更新的功能",
   "size": "约 70 MB",
   "sha256": "",
-  "downloadUrl": "https://github.com/duomi1234/doraemon-pet-release/releases/download/v1.0.30/DoraemonPet-Setup-1.0.30.exe",
+  "downloadUrl": "https://github.com/duomi1234/doraemon-pet-release/releases/download/v1.0.31/DoraemonPet-Setup-1.0.31.exe",
   "pageUrl": "https://duomi1234.github.io/doraemon-pet-release/",
   "history": [
+    {
+      "version": "1.0.31",
+      "date": "2026-11-21",
+      "notes": "增加自动检测版本更新的功能",
+      "downloadUrl": "https://github.com/duomi1234/doraemon-pet-release/releases/download/v1.0.31/DoraemonPet-Setup-1.0.31.exe"
+    },
     {
       "version": "1.0.30",
       "date": "2026-11-21",
