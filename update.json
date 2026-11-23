@@ -1,12 +1,18 @@
 {
-  "version": "1.0.31",
-  "date": "2026-11-21",
-  "notes": "增加自动检测版本更新的功能",
+  "version": "1.0.33",
+  "date": "2026-11-23",
+  "notes": "学习模式下：点击鼠标左键将随机更新一条笑话（20s更新一条防止未看完）;鼠标双击更新一条冷知识（20s更新一条，防止未看完）；\n设置-关于详情-检查更新：用户可手动检查软件更新，自行从网站下载最新版桌面助手。",
   "size": "约 70 MB",
   "sha256": "",
-  "downloadUrl": "https://github.com/duomi1234/doraemon-pet-release/releases/download/v1.0.31/DoraemonPet-Setup-1.0.31.exe",
+  "downloadUrl": "https://github.com/duomi1234/doraemon-pet-release/releases/download/v1.0.33/DoraemonPet-Setup-1.0.33.exe",
   "pageUrl": "https://duomi1234.github.io/doraemon-pet-release/",
   "history": [
+    {
+      "version": "1.0.33",
+      "date": "2026-11-23",
+      "notes": "学习模式下：点击鼠标左键将随机更新一条笑话（20s更新一条防止未看完）;鼠标双击更新一条冷知识（20s更新一条，防止未看完）；\n设置-关于详情-检查更新：用户可手动检查软件更新，自行从网站下载最新版桌面助手。",
+      "downloadUrl": "https://github.com/duomi1234/doraemon-pet-release/releases/download/v1.0.33/DoraemonPet-Setup-1.0.33.exe"
+    },
     {
       "version": "1.0.31",
       "date": "2026-11-21",
